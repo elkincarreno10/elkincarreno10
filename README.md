@@ -8,5 +8,9 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 
 ## Encuéntrame en:
-[![LinkedIn](/img/Linkedin.png)](https://www.linkedin.com/in/elkin-carre%C3%B1o/) Linkedin
-[![Portafolio](/img/Sobre_Mi.png)](https://portafolio-ten-iota.vercel.app/) Portafolio
+<a href="https://www.linkedin.com/in/elkin-carre%C3%B1o/">
+  <img src="/img/Linkedin.png" width="30" alt="linkedin"/>
+</a>
+<a href="https://portafolio-ten-iota.vercel.app/">
+  <img src="/img/Sobre_Mi.png" width="30" alt="portafolio"/>
+</a>
