@@ -12,5 +12,5 @@
   <img src="/img/Linkedin.png" width="130" alt="linkedin"/>
 </a>
 <a href="https://portafolio-ten-iota.vercel.app/">
-  <img src="/img/Sobre_Mi.png" width="130" alt="portafolio"/>
+  <img src="/img/Portafolio.png" width="130" alt="portafolio"/>
 </a>
