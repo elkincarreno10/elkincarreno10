@@ -9,8 +9,8 @@
 
 ## Encuéntrame en:
 <a href="https://www.linkedin.com/in/elkin-carre%C3%B1o/">
-  <img src="/img/Linkedin.png" width="30" alt="linkedin"/>
+  <img src="/img/Linkedin.png" width="130" alt="linkedin"/>
 </a>
 <a href="https://portafolio-ten-iota.vercel.app/">
-  <img src="/img/Sobre_Mi.png" width="30" alt="portafolio"/>
+  <img src="/img/Sobre_Mi.png" width="130" alt="portafolio"/>
 </a>
