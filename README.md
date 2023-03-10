@@ -1,7 +1,7 @@
-# !(https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Elkin Carreño 👋
+# ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Elkin Carreño 👋
 ### Programador Fullstack
 
-!(https://raw.githubusercontent.com/elkincarreno10/elkincarreno10/master/banner.png)
+![https://github.com/elkincarreno10](https://raw.githubusercontent.com/elkincarreno10/elkincarreno10/master/banner.png)
 
 <!--
 **elkincarreno10/elkincarreno10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
