@@ -1,4 +1,4 @@
-# <img src="AnimateProfile.png" width="50" /> Hola, mi nombre es Elkin Carreño 👋
+# <img src="AnimateProfile.png" width="30" /> Hola, mi nombre es Elkin Carreño 👋
 ### Programador Fullstack con experiencia en tecnologías como JavaScript y Python, y conocimiento en servicios en la nube con AWS
 
 ![Banner](BannerJavascript.png)
@@ -8,5 +8,5 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 
 ## Encuéntrame en:
-[![LinkedIn](Linkedin)](https://www.linkedin.com/in/elkin-carre%C3%B1o/)
-[![Portafolio](Portafolio)](https://portafolio-ten-iota.vercel.app/)
+[![LinkedIn](/img/Linkedin.png)](https://www.linkedin.com/in/elkin-carre%C3%B1o/) Linkedin
+[![Portafolio](/img/Sobre_Mi.png)](https://portafolio-ten-iota.vercel.app/) Portafolio
