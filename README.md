@@ -1,19 +1,12 @@
-# ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Elkin Carreño 👋
-### Programador Fullstack
+# <img src="AnimateProfile.png" width="50" /> Hola, mi nombre es Elkin Carreño 👋
+### Programador Fullstack con experiencia en tecnologías como JavaScript y Python, y conocimiento en servicios en la nube con AWS
 
-![https://github.com/elkincarreno10](https://raw.githubusercontent.com/elkincarreno10/elkincarreno10/master/banner.png)
+![Banner](BannerJavascript.png)
 
-<!--
-**elkincarreno10/elkincarreno10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Encuéntrame en:
+[![LinkedIn](Linkedin)](https://www.linkedin.com/in/elkin-carre%C3%B1o/)
+[![Portafolio](Portafolio)](https://portafolio-ten-iota.vercel.app/)
