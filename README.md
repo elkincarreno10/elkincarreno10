@@ -1,5 +1,5 @@
 # <img src="AnimateProfile.png" width="30" /> Hola, mi nombre es Elkin Carreño 👋
-### Programador Fullstack con experiencia en tecnologías como JavaScript y Python, y conocimiento en servicios en la nube con AWS
+### Programador Fullstack con experiencia en tecnologías como Typescript y Python, y conocimiento en servicios en la nube con AWS
 
 ![Banner](BannerSkills.png)
 
