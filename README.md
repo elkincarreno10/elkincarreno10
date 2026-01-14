@@ -12,6 +12,6 @@
 <a href="https://www.linkedin.com/in/elkin-carre%C3%B1o/">
   <img src="/img/Linkedin.png" width="130" alt="linkedin"/>
 </a>
-<a href="https://portafolio-ten-iota.vercel.app/">
+<a href="https://www.fullstackelkin.com/">
   <img src="/img/Portafolio.png" width="130" alt="portafolio"/>
 </a>
