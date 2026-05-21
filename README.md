@@ -13,5 +13,5 @@
   <img src="/img/Linkedin.png" width="130" alt="linkedin"/>
 </a>
 <a href="https://www.fullstackelkin.com/">
-  <img src="/img/Portafolio.png" width="130" alt="portafolio"/>
+  <img src="/img/Portafolio.png" width="120" alt="portafolio"/>
 </a>
