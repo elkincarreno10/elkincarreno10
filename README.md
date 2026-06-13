@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.fullstackelkin.com/">
+  <a href="https://www.fullstackelkin.com/" target="_blank" >
     <img src="https://img.shields.io/badge/Ver%20portafolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver portafolio" />
   </a>
   <a href="https://www.linkedin.com/in/elkin-carre%C3%B1o/">
